@@ -1,1 +1,2 @@
 # Gradient_generator
+This project is a CSS Gradient Generator that allows users to design and generate custom CSS gradients with ease. The intuitive user interface provides real-time feedback, allowing users to see changes instantly as they adjust gradient properties such as angle, colors, and stops. The tool supports linear and radial gradients, and the generated CSS code can be copied and directly applied to web projects. The interface is built with HTML, styled with CSS, and uses JavaScript for dynamic gradient preview.
