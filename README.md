@@ -1,6 +1,6 @@
 # Gradient_generator
-Technology used: HTML, CSS, JavaScript
-Tools: GitHub, VS Code
+# Technology used: HTML, CSS, JavaScript
+# Tools: GitHub, VS Code
 
 Developed a web tool that allows users to create custom CSS linear and radial gradients with real-time preview.
 
